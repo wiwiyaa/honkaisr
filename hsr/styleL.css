@@ -1,0 +1,330 @@
+.body{
+	margin:0;
+}
+.wth-1887{
+	width:1887px;
+}
+.hght-77{
+	height:77px;
+}
+.wth-1684{
+	width:1684px;
+}
+.hght-5799{
+	height:5799px;
+}
+.bcnd-dark{
+	background-color: black;
+}
+.wth-1043{
+	width:1043px;
+}
+.bcnd-radioctiv{
+	background-color:#39ff14;
+}
+.ml-375{
+	margin-left: 375px;
+}
+.d-flex{
+	display: flex;
+}
+@font-face {
+    font-family: rubik; 
+    src: url(Rubik.ttf);
+   }
+.fs-24{
+	font-size:24px;
+}
+.font-family-rubik{
+	font-family:rubik ;
+}
+.mt-20{
+	margin-top:20px;
+}
+.cr-white{
+	color:white;
+}
+.header-txt-space{
+	letter-spacing:7%
+}
+.ml-65{
+	margin-left:65px ;
+}
+.border-btm{
+	border-bottom: 2px solid white;
+}
+.wth-1684{
+	width:1684px;
+}
+.hght-5799{
+	height:5799px;
+}
+.pos-fix{
+	position: fixed;
+}
+.right-5{
+	right: 5px;
+}
+.top-3{
+	top: 5px;
+}
+.logo{
+	background-image: url(logo.png);
+}
+.wth-267{
+	width:267px;
+}
+.hght-147{
+	height:147px;
+}
+.wth-1532{
+	width:1532px;
+}
+.hght-450{
+	height:450px;
+}
+.border-rad-198{
+	border-radius: 198px;
+}
+.ml-75{
+	margin-left:75px;
+}
+.mt-20{
+	margin-top: 20px;
+}
+.dec-none{
+	text-decoration: none;
+}
+.wth-1207{
+	width:1207px;
+}
+.hght-526{
+	height:526px;
+}
+.bcnd-danger{
+	background-color: red;
+}
+.mx-auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+.mt-auto{
+	margin-top: 200px;
+}
+.mb-0{
+	margin-bottom: 0px;
+}
+.ml-auto{
+	margin-left: auto;
+}
+.pt-150{
+	padding-top: 150px;
+}
+.fs-96{
+	font-size: 96px;
+}
+.express-txt{
+	text-stroke: 3px #DCCEA8;
+	-webkit-text-stroke: 3px #DCCEA8;
+}
+.fs-36{
+	font-size: 36px;
+}
+.txt-algn-right{
+	text-align: right;
+}
+.fstl-italic{
+	font-style:italic;
+}
+.mt-0{
+	margin-top: 0px;
+}
+.pb-250{
+	padding-bottom: 250px;
+}
+.mb-0{
+	margin-bottom: 0;
+}
+.mt-0{
+	margin-top: 0px;
+}
+.express-litle-txt{
+	text-stroke: 1px #DCCEA8;
+	-webkit-text-stroke: 1px #DCCEA8;
+}
+.color-pastel{
+	color:#DCCEA8;
+}
+.fw-bold{
+	font-weight: bold;
+}
+.ff-arial{
+	font-family: arial;
+}
+.wth-982{
+	width:982px;
+}
+.hght-782{
+	height:782px;
+}
+.z-ind-1{
+	z-index: 1;
+	position: absolute;
+	top:430px;
+}
+.bcnd-ocean{
+	background-color: blue;
+}
+.mt-260{
+	margin-top: 260px;
+}
+.txt-algn-left{
+	text-align: left;
+}
+.gertastat-txt{
+	text-stroke: 3px #697076;
+	-webkit-text-stroke: 3px  #697076;
+	color: #0E0F10;
+}
+.gertastat-litle-txt{
+	text-stroke: 1px #697076;
+	-webkit-text-stroke: 1px  #697076;
+	color:#697076;
+}
+.jarilo-txt{
+	text-stroke: 3px #9DAEE1;
+	-webkit-text-stroke: 3px  #9DAEE1;
+	color: #0E0F10;
+}
+.jarilo-litle-txt{
+	text-stroke: 1px #9DAEE1;
+	-webkit-text-stroke: 1px  #9DAEE1;
+	color:#9DAEE1
+}
+.z-ind-2{
+	z-index: 1;
+	position: absolute;
+	top:1605px;
+	right:50px;
+}
+.z-ind-3{
+	z-index: 1;
+	position: absolute;
+	top:2400px;
+}
+.wth-781{
+	width:781px;
+}
+.hght-687{
+	height:687px;
+}
+.wth-745{
+	width:745px;
+}
+.hght-934{
+	height:934px;
+}
+.lofa-txt{
+	text-stroke: 3px #1887B6;
+	-webkit-text-stroke: 3px  #1887B6;
+	color: #0E0F10;
+}
+.lofa-litle-txt{
+	text-stroke: 1px #1887B6;
+	-webkit-text-stroke: 1px  #1887B6;
+	color:#1887B6
+}
+.z-ind2{
+	z-index: 2;
+}
+.pr-30{
+	padding-right: 30px;
+}
+.wth-806{
+	width:806px;
+}
+.hght-691{
+	height:691;
+}
+.z-ind-4{
+	z-index: 1;
+	position: absolute;
+	top:3905px;
+	right:50px;
+}
+.pl-30{
+	padding-left: 30px;
+}
+.pena-txt{
+	text-stroke: 3px #D3D2B4;
+	-webkit-text-stroke: 3px  #D3D2B4;
+	color: #0E0F10;
+}
+.pena-litle-txt{
+	text-stroke: 1px #D3D2B4;
+	-webkit-text-stroke: 1px  #D3D2B4;
+	color:#D3D2B4
+}
+.wth-883{
+	width:883px;
+}
+.hght-759{
+	height:759px;
+}
+.z-ind-5{
+	z-index: 1;
+	position: absolute;
+	top:4850px;
+}
+.bcnd-express{
+	background-image: url(exprs.png);
+	background-size: 100% 100%;
+}
+.bcnd-march{
+	background-image: url(march.png);
+	background-size: 100% 100%;
+}
+.bcnd-gertastat{
+	background-image: url(gertastat.png);
+	background-size: 100% 100%;
+}
+.bcnd-gerta{
+	background-image: url(gerta.png);
+	background-size: 100% 100%;
+}
+.bcnd-bronya{
+	background-image: url(bronya.png);
+	background-size: 100% 100%;
+}
+.bcnd-jarilo{
+	background-image: url(jarilo.png);
+	background-size: 100% 100%;
+}
+.shadow-txt{
+	text-shadow: 2px 2px 7px rgba(0, 0, 0, 1);
+}
+.opacity-0{
+	opacity:0;
+}
+.bcnd-lofa{
+	background-image: url(lofa.png);
+	background-size: 100% 100%;
+}
+.bcnd-bailu{
+	background-image: url(bailu.png);
+	background-size: 100% 100%;
+}
+.wth-690{
+	width:690px;
+}
+.hght-550{
+	height: 550px;
+}
+.bcnd-avan{
+	background-image: url(avan.png);
+	background-size: 100% 100%;
+}
+.bcnd-pena{
+	background-image: url(pena.png);
+	background-size: 100% 100%;
+}
